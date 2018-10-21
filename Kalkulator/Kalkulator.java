@@ -14,7 +14,7 @@ public  static void main (String []args){
 	       System.out.println("Dodawanie dwóch liczb - wciœnij +");
 	       System.out.println("Odejmowanie dwóch liczb - wciœnij -");
 	       System.out.println("Mno¿enie dwóch liczb - wciœnij *");
-	       System.out.println("Dzielenie dwóch liczb - wciœnij /");
+	       System.out.prin	tln("Dzielenie dwóch liczb - wciœnij /");
 	       System.out.println("Operacaja modulo - wciœnij %");
 	 
 	       znak = wej.next().charAt(0);  // pobieramy symbol operacji od u¿ytkownika
